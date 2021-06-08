@@ -111,6 +111,9 @@ h3 { font-size: var(--fs-h3) }
     margin: 0;
     font-size: var(--fs-h3);
 }
+.section__title--work{
+    color: var(--clr-accent);
+}
 
 .section__subtitle--intro,
 .section__subtitle--about {
